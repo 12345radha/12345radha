@@ -13,8 +13,7 @@ I am an enthusiastic, hardworking professional who has a strong interest in tech
 ### Professional Journey
 
 My passion for building things from scratch and my deep interest in problem-solving inspired me to pursue a career in technology.  
-I honed my skills, gained hands-on experience, and explored the dynamic world of **web development** through rewarding internships.  
-💼 I previously worked as a **Junior Associate at Celebal Technologies**, where I further strengthened my foundation in software development.  
+I honed my skills, gained hands-on experience, and explored the dynamic world of **web development** through rewarding internships.💼 I previously worked as a **Junior Associate at Celebal Technologies**, where I further strengthened my foundation in software development.  
 Currently, I am working as a **Software Engineer at L&T Technology Services**, where I continue to grow and contribute in meaningful ways.
 
 ### Expertise
