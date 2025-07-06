@@ -1,4 +1,4 @@
-img src="https://komarev.com/ghpvc/?username=Umesh-JNU&label=Visitors" align="right" />
+<img src="https://komarev.com/ghpvc/?username=Umesh-JNU&label=Visitors" align="right" />
 
 <h1 align="center">
   Hi, 👋
