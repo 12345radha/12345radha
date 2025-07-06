@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&pause=1000&color=ff9100fd&random=false&width=435&lines=I'm+Radha Kumari;A+Software+Engineer;A+Java+Developer" alt="Magic text 🧙‍♂️🪄" align="center" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&pause=1000&color=ff9100fd&random=false&width=435&lines=I'm+Radha+Kumari;A+Software+Engineer;A+Java+Developer" alt="Typing SVG" />
 </h1>
 
 ## 🚀 About Me
