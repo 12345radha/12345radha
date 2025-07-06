@@ -20,5 +20,5 @@ I am an enthusiastic, hardworking professional who has a strong interest in tech
 
 ### Expertise
 
-🧠 I specialize in developing **scalable and reliable web applications**, and I enjoy every part of the development process — from crafting interactive user interfaces to writing efficient server-side logic.  
-As a side interest, I enjoy building **RESTful APIs**, with a strong focus on clean architecture, maintainability, and performance.
+🧠 I specialize in developing **scalable and reliable web applications**, and I enjoy every part of the development process 
+   — from crafting interactive user interfaces to writing efficient server-side logic.  As a side interest, I enjoy building **RESTful APIs**, with a strong focus on clean architecture, maintainability, and   performance.
